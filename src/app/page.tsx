@@ -36,7 +36,7 @@ export default async function Home() {
             >
               <h3 className="text-2xl font-bold">Documentation →</h3>
               <div className="text-lg">
-                Skibidi
+                Skib
               </div>
             </Link>
           </div>
